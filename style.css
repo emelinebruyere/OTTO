@@ -40,14 +40,14 @@ width:47vw;
 
 p {
 	font-family: 'Sarabun', sans-serif;
-	font-size : 0.885em;
+	font-size : 0.78em;
 	line-height: 1.5em ;
 	font-weight : normal;
 	color: white;
 	width: 80vw;
 	/*border: 1px solid green;*/
 	margin:auto;
-	margin-top: 8vh;
+	margin-top: 6vh;
 }
 
 
@@ -76,17 +76,6 @@ width: 8vw;
 padding-right:2vw;
 
 }
-
-
-
-[id=2]{
-
-margin-top:0vw;
-/*border: 1px solid green;*/
-}
-
-
-
 
 
 }/* fermeture querries*/ 
