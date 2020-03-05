@@ -123,32 +123,23 @@ display: flex;
 
 
 nav {
-
-margin-left: 25vw;
-
+position: absolute;
+top: 0;
+right: 0;
 	
 }
 
 
 nav ul {
-	/*width: 90%;*/
-	/*border: 2px solid red;*/
-	margin-top : 0vh ;
-	display: inline-flex ;
-	margin-top : 0vh;
-	margin-left:90%;
-	
-
+		text-decoration: none;
+		list-style-type: none;
+		display: inline-flex;
 }
 
 nav ul li {
-
-	margin-top: 0vh;
-	/*border: 1px solid red;*/
-	padding-right:28%;
-	white-space : nowrap;
-
+	padding: 0.8em;
 }
+
 
 
 
