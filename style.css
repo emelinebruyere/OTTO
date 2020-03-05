@@ -78,6 +78,66 @@ padding-right:2vw;
 }
 
 
-}/* fermeture querries*/ 
+}/* fermeture queries*/ 
 
+
+@media (min-width: 600px) and (max-width: 1024px) {
+[id=section] {
+
+width:100%;
+/*border: 1px solid red;*/
+margin: auto;
+
+
+}
+
+
+[id=logo] {
+
+width:40vw;
+/*border: 1px solid yellow;*/
+
+}
+
+
+p {
+	font-family: 'Sarabun', sans-serif;
+	font-size : 0.78em;
+	line-height: 1.5em ;
+	font-weight : normal;
+	color: white;
+	width: 80vw;
+	/*border: 1px solid green;*/
+	margin:auto;
+	margin-top: 15vh;
+}
+
+
+
+a {
+	text-decoration: none;
+	font-family: 'Sarabun', sans-serif;
+	color: white;
+	font-weight : bold;
+}
+
+
+a:hover {
+	text-decoration: underline ;
+	font-family: 'Sarabun', sans-serif;
+	color: white;
+	font-weight : bold;
+}
+
+
+
+[id=charge] {
+
+width: 8vw;
+padding-right:2vw;
+
+}
+
+  
+}
 
