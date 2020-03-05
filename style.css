@@ -40,15 +40,16 @@ width:47vw;
 
 p {
 	font-family: 'Sarabun', sans-serif;
-	font-size : 0.78em;
-	line-height: 1.35em ;
+	font-size : 0.885em;
+	line-height: 1.5em ;
 	font-weight : normal;
 	color: white;
 	width: 80vw;
 	/*border: 1px solid green;*/
 	margin:auto;
-	margin-top: 10vh;
+	margin-top: 8vh;
 }
+
 
 
 
